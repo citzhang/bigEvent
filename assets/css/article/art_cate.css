@@ -1,0 +1,18 @@
+body,html {
+  margin: 0;
+  padding: 0;
+}
+body {
+  padding: 15px;
+  background-color: #f2f3f5;
+}
+#add_form,
+#edit_form {
+  margin-top: 30px;
+  margin-right: 40px;
+}
+.layui-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
